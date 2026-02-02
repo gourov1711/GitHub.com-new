@@ -1,0 +1,7 @@
+{
+  "name": "ELECA - Smart Energy Tracker",
+  "description": "An advanced tool for Indian households to estimate electricity bills, track appliance-level consumption, and receive energy-saving insights based on state-wise tariff slabs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
